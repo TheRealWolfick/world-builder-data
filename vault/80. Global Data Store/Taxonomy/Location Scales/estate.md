@@ -1,0 +1,12 @@
+---
+title: estate
+aliases: []
+type: location-scale
+facet: Location Scales
+parent: ""
+ordered: true
+class: 11
+description: A compound, clan grounds, sect mountain or campus.
+created-date: 2026-11-15
+tags: []
+---

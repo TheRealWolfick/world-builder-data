@@ -1,0 +1,5 @@
+{
+  "name": "World Builder starter data",
+  "description": "The data store schema, ledger types (Inventory, Journal, Stats, Relationships) and a basic taxonomy: rarity, item condition, ratings, location scales, units, genres, elements and more.",
+  "root": "vault"
+}

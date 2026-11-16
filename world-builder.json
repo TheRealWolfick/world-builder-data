@@ -1,5 +1,5 @@
 {
   "name": "World Builder starter data",
-  "description": "The data store schema, ledger types (Inventory, Journal, Stats, Relationships) and a basic taxonomy: rarity, item condition, ratings, location scales, units, genres, elements and more.",
+  "description": "The data store schema, ledger types (Inventory, Journal, Stats, Relationships) and a taxonomy for every facet the schema uses: rarity, item condition, ratings, location scales, attack power, units, genres, elements, energy sources, traditions, categories, engineering disciplines, upgrade slots, topics and more. Novels is left empty: your novels add themselves.",
   "root": "vault"
 }

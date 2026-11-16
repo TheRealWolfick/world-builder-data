@@ -4,7 +4,7 @@ A dataset for [World Builder](https://github.com/TheRealWolfick/world-builder): 
 
 - `90. Templater/Data Store Schema.md`: the fields of every data store collection and of character sheets
 - `90. Templater/Ledger Types.md`: ledger types (Inventory, Journal, Stats, Relationships) and their callout templates
-- `80. Global Data Store/Taxonomy/…`: a basic taxonomy: Rarity, Item Condition, Rating and Location Scales (ranked), Units, Genres, Elements, Energy Sources, Traditions, Material, Creature, Ability and Recipe Categories, Faction Types, Location Types and Item Categories
+- `80. Global Data Store/Taxonomy/…`: values for every facet the schema links to: Rarity, Item Condition, Rating, Location Scales and Attack Power (ranked), Units, Genres, Elements, Energy Sources, Traditions, Material, Creature, Ability and Recipe Categories, Faction Types, Location Types, Item Categories, Engineering Disciplines, Upgrade Slots and Topics. **Novels** is left empty on purpose: a novel's note is made when you add the novel (`npm run scaffold` or Templater's createNovel).
 
 ## Importing
 
